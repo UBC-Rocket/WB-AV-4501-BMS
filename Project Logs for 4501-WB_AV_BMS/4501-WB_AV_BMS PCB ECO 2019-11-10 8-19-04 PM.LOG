@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=RT1-1
+Removed Pin From Net: NetName=GPIO1 Pin=RT1-2
+Removed Pin From Net: NetName=GND Pin=RT2-1
+Removed Pin From Net: NetName=GPIO2 Pin=RT2-2
+Removed Pin From Net: NetName=GND Pin=RT3-1
+Removed Pin From Net: NetName=GPIO3 Pin=RT3-2
+Removed Pin From Net: NetName=GND Pin=RT4-1
+Removed Pin From Net: NetName=GPIO4 Pin=RT4-2
+Removed Member From Class: ClassName=BMS Member=RT1
+Removed Member From Class: ClassName=BMS Member=RT2
+Removed Member From Class: ClassName=BMS Member=RT3
+Removed Member From Class: ClassName=BMS Member=RT4

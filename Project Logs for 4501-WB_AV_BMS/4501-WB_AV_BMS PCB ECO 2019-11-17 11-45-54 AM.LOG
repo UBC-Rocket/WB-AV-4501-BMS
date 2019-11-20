@@ -1,0 +1,9 @@
+Change Physical Footprint: Designator=BT1 Old Footprint=PCBComponent_1 New Footprint=PCBComponent_1
+Change Physical Footprint: Designator=BT3 Old Footprint=PCBComponent_1 New Footprint=PCBComponent_1
+Change Physical Footprint: Designator=BT5 Old Footprint=PCBComponent_1 New Footprint=PCBComponent_1
+Change Physical Footprint: Designator=BT7 Old Footprint=PCBComponent_1 New Footprint=PCBComponent_1
+Change Physical Footprint: Designator=S1 Old Footprint=*TSM-103-01-L-SV New Footprint=*TSM-103-01-L-SV
+Change Physical Footprint: Designator=S2 Old Footprint=*TSM-103-01-L-SV New Footprint=*TSM-103-01-L-SV
+Change Physical Footprint: Designator=S3 Old Footprint=*TSM-103-01-L-SV New Footprint=*TSM-103-01-L-SV
+Change Physical Footprint: Designator=S4 Old Footprint=*TSM-103-01-L-SV New Footprint=*TSM-103-01-L-SV
+Change Physical Footprint: Designator=U1 Old Footprint=LQFP64_LWE_A - duplicate New Footprint=LQFP64_LWE_A - duplicate

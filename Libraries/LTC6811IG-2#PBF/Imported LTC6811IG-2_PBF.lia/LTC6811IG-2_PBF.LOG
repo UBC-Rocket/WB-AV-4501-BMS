@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : LTC6811IG-2_PBF.LibPkg
+
+Section : C:\Users\Pablo Fernandez\Documents\UBC Rocket\WB\4501-WB_AV_BMS\Libraries\LTC6811IG-2#PBF\LTC6811IG-2_PBF.lia
+    Section : PCB Library - LTC6811IG-2_PBF.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token LTC6811IG-2#PBF On Line 164
+            Warning - 1 : Skipping Token attachedSymbol On Line 671
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - LTC6811IG-2_PBF.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 134
+            Warning - 1 : Skipping Token layerContents On Line 140
+            Warning - 1 : Skipping Token layerContents On Line 146
+            Warning - 1 : Skipping Token layerContents On Line 154
+        EndSection
+
+        Section : Generating SCH Library - LTC6811IG-2_PBF.SchLib
+        EndSection
+    EndSection
+EndSection

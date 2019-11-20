@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=BT? NewDesignator=BT2
+Change Component Designator: OldDesignator=BT? NewDesignator=BT3
+Change Component Designator: OldDesignator=BT? NewDesignator=BT4
+Change Component Designator: OldDesignator=BT? NewDesignator=BT5
+Change Component Designator: OldDesignator=BT? NewDesignator=BT6
+Change Component Designator: OldDesignator=BT? NewDesignator=BT7
+Change Net Name : Old Net Name=NetBT?_1 New Net Name=NetBT2_2
+Change Net Name : Old Net Name=NetBT?_1 New Net Name=NetBT3_2
+Change Net Name : Old Net Name=NetBT?_1 New Net Name=NetBT4_2
+Change Net Name : Old Net Name=NetBT?_1 New Net Name=NetBT5_2
+Change Net Name : Old Net Name=NetBT?_1 New Net Name=NetBT6_2
+Added Member To Class: ClassName=BMS Member=Component BT2 Battery
+Added Member To Class: ClassName=BMS Member=Component BT3 Battery
+Added Member To Class: ClassName=BMS Member=Component BT5 Battery
+Added Member To Class: ClassName=BMS Member=Component BT6 Battery
+Added Member To Class: ClassName=BMS Member=Component BT7 Battery

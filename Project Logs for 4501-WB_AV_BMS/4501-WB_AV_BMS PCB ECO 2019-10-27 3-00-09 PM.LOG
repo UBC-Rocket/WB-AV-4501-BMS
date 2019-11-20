@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=Q1 Old Footprint=E3 New Footprint=SOT95P245X110-3N
+Change Component Footprint: Designator=Q2 Old Footprint=E3 New Footprint=SOT95P245X110-3N
+Change Component Footprint: Designator=Q3 Old Footprint=E3 New Footprint=SOT95P245X110-3N
+Change Component Footprint: Designator=Q4 Old Footprint=E3 New Footprint=SOT95P245X110-3N
+Change Component Footprint: Designator=Q5 Old Footprint=E3 New Footprint=SOT95P245X110-3N
+Change Component Footprint: Designator=Q6 Old Footprint=E3 New Footprint=SOT95P245X110-3N
+Change Component Footprint: Designator=Q7 Old Footprint=E3 New Footprint=SOT95P245X110-3N
+Added Pin To Net: NetName=C9 Pin=U1-2
+Added Pin To Net: NetName=C9 Pin=U1-4
+Added Pin To Net: NetName=C9 Pin=U1-6

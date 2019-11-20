@@ -1,0 +1,15 @@
+Change Physical Footprint: Designator=BT1 Old Footprint=PCBComponent_1 New Footprint=PCBComponent_1
+Change Physical Footprint: Designator=BT3 Old Footprint=PCBComponent_1 New Footprint=PCBComponent_1
+Change Physical Footprint: Designator=BT5 Old Footprint=PCBComponent_1 New Footprint=PCBComponent_1
+Change Physical Footprint: Designator=BT7 Old Footprint=PCBComponent_1 New Footprint=PCBComponent_1
+Change Physical Footprint: Designator=C8 Old Footprint=CAP_2012 New Footprint=CAP_2012
+Change Physical Footprint: Designator=D1 Old Footprint=DIODE_DO-214AC New Footprint=DIODE_DO-214AC
+Change Physical Footprint: Designator=J1 Old Footprint=PCBComponent_1 New Footprint=PCBComponent_1
+Change Physical Footprint: Designator=J2 Old Footprint=PCBComponent_1 New Footprint=PCBComponent_1
+Change Physical Footprint: Designator=R23 Old Footprint=STA_RMCF2512 New Footprint=STA_RMCF2512
+Change Physical Footprint: Designator=S1 Old Footprint=*TSM-103-01-L-SV New Footprint=*TSM-103-01-L-SV
+Change Physical Footprint: Designator=S2 Old Footprint=*TSM-103-01-L-SV New Footprint=*TSM-103-01-L-SV
+Change Physical Footprint: Designator=S3 Old Footprint=*TSM-103-01-L-SV New Footprint=*TSM-103-01-L-SV
+Change Physical Footprint: Designator=S4 Old Footprint=*TSM-103-01-L-SV New Footprint=*TSM-103-01-L-SV
+Change Physical Footprint: Designator=U1 Old Footprint=LQFP64_LWE_A New Footprint=LQFP64_LWE_A
+Change Physical Footprint: Designator=U2 Old Footprint=MSOP-8_MS New Footprint=MSOP-8_MS
