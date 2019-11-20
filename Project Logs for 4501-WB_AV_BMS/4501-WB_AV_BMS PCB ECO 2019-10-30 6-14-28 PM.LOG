@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q8
+Change Component Designator: OldDesignator=R? NewDesignator=R23
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Added Component: Designator=P2(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD?_2 Pin=BT1-1
+Added Pin To Net: NetName=NetD?_2 Pin=P1-8
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=NetC?_2 Pin=P2-2
+Added Pin To Net: NetName=NetD?_2 Pin=Q1-3
+Added Pin To Net: NetName=NetD?_2 Pin=R1-1
+Added Pin To Net: NetName=NetD?_2 Pin=R22-2
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC8_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC8_2
+Change Net Name : Old Net Name=NetD?_2 New Net Name=VCC
+Change Net Name : Old Net Name=NetQ?_4 New Net Name=NetQ8_4
+Added Member To Class: ClassName=Redundant Power Supplies Member=Component P2 Header 2

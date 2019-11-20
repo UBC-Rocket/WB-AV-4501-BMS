@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=GND Pin=P1-1
+Removed Pin From Net: NetName=NetBT7_1 Pin=P1-2
+Removed Pin From Net: NetName=NetBT5_2 Pin=P1-3
+Removed Pin From Net: NetName=NetBT5_1 Pin=P1-4
+Removed Pin From Net: NetName=NetBT3_2 Pin=P1-5
+Removed Pin From Net: NetName=NetBT3_1 Pin=P1-6
+Removed Pin From Net: NetName=NetBT1_2 Pin=P1-7
+Removed Pin From Net: NetName=GPIO5 Pin=P1-14
+Removed Pin From Net: NetName=GPIO6 Pin=P1-15
+Removed Pin From Net: NetName=GPIO7 Pin=P1-16
+Removed Pin From Net: NetName=GPIO8 Pin=P1-17
+Removed Pin From Net: NetName=GPIO9 Pin=P1-18
+Removed Member From Class: ClassName=BMS Member=P1
+Added Component: Designator=J?(*5747845-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Centerline_Pitch"; Value = "2.74 mm[.108 in]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5747845-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_of_Positions"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product_Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/5747845-4/TE%20Connectivity%20AMP%20Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-5747845-4.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBT1_2 Pin=J?-5
+Added Pin To Net: NetName=NetBT3_1 Pin=J?-7
+Added Pin To Net: NetName=GND Pin=J?-8
+Added Pin To Net: NetName=NetBT3_2 Pin=J?-9
+Added Pin To Net: NetName=NetBT5_1 Pin=J?-11
+Added Pin To Net: NetName=NetBT5_2 Pin=J?-13
+Added Pin To Net: NetName=NetBT7_1 Pin=J?-15
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1
+Added Pin To Net: NetName=NetJ?_1 Pin=R39-2
+Added Net: Name=NetJ?_1
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Pin To Net: NetName=NetJ?_2 Pin=R37-1
+Added Net: Name=NetJ?_2
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-3
+Added Pin To Net: NetName=NetJ?_3 Pin=R40-1
+Added Net: Name=NetJ?_3
+Added Pin To Net: NetName=NetJ?_4 Pin=J?-4
+Added Pin To Net: NetName=NetJ?_4 Pin=R36-1
+Added Net: Name=NetJ?_4
+Added Pin To Net: NetName=NetJ?_6 Pin=J?-6
+Added Pin To Net: NetName=NetJ?_6 Pin=R38-2
+Added Net: Name=NetJ?_6
+Added Member To Class: ClassName=BMS Member=Component J? 5747845-4

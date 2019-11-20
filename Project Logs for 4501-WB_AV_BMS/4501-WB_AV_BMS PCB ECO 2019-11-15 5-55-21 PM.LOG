@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=R47-1
+Removed Pin From Net: NetName=NetD5_2 Pin=R47-2
+Removed Member From Class: ClassName=BMS Member=R47
+Added Component: Designator=R23(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPN"; Value = "RMCF2010JT33R0CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "475"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD5_2 Pin=R23-1
+Added Pin To Net: NetName=Cell6 Pin=R23-2
+Added Member To Class: ClassName=BMS Member=Component R23 Res3

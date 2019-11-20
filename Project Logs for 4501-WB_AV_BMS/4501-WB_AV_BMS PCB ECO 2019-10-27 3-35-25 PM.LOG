@@ -1,0 +1,73 @@
+Removed Pin From Net: NetName=NetBT1_1 Pin=BT1-1
+Removed Pin From Net: NetName=VCC Pin=BT1-2
+Removed Pin From Net: NetName=VCC Pin=BT1-2
+Removed Pin From Net: NetName=VCC Pin=BT1-2
+Removed Pin From Net: NetName=NetBT2_1 Pin=BT2-1
+Removed Pin From Net: NetName=NetBT1_1 Pin=BT2-2
+Removed Pin From Net: NetName=NetBT1_1 Pin=BT2-2
+Removed Pin From Net: NetName=NetBT1_1 Pin=BT2-2
+Removed Pin From Net: NetName=NetBT3_1 Pin=BT3-1
+Removed Pin From Net: NetName=NetBT2_1 Pin=BT3-2
+Removed Pin From Net: NetName=NetBT2_1 Pin=BT3-2
+Removed Pin From Net: NetName=NetBT2_1 Pin=BT3-2
+Removed Pin From Net: NetName=NetBT4_1 Pin=BT4-1
+Removed Pin From Net: NetName=NetBT3_1 Pin=BT4-2
+Removed Pin From Net: NetName=NetBT3_1 Pin=BT4-2
+Removed Pin From Net: NetName=NetBT3_1 Pin=BT4-2
+Removed Pin From Net: NetName=NetBT5_1 Pin=BT5-1
+Removed Pin From Net: NetName=NetBT4_1 Pin=BT5-2
+Removed Pin From Net: NetName=NetBT4_1 Pin=BT5-2
+Removed Pin From Net: NetName=NetBT4_1 Pin=BT5-2
+Removed Pin From Net: NetName=NetBT6_1 Pin=BT6-1
+Removed Pin From Net: NetName=NetBT5_1 Pin=BT6-2
+Removed Pin From Net: NetName=NetBT5_1 Pin=BT6-2
+Removed Pin From Net: NetName=NetBT5_1 Pin=BT6-2
+Removed Pin From Net: NetName=GND Pin=BT7-1
+Removed Pin From Net: NetName=NetBT6_1 Pin=BT7-2
+Removed Pin From Net: NetName=NetBT6_1 Pin=BT7-2
+Removed Pin From Net: NetName=NetBT6_1 Pin=BT7-2
+Removed Member From Class: ClassName=BMS Member=BT7
+Added Component: Designator=P1(HDR1X8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=BT1-1
+Added Pin To Net: NetName=NetBT1_1 Pin=BT1-2
+Added Pin To Net: NetName=NetBT1_1 Pin=BT1-2
+Added Pin To Net: NetName=NetBT1_1 Pin=BT1-2
+Added Pin To Net: NetName=NetBT1_1 Pin=BT2-1
+Added Pin To Net: NetName=NetBT2_1 Pin=BT2-2
+Added Pin To Net: NetName=NetBT2_1 Pin=BT2-2
+Added Pin To Net: NetName=NetBT2_1 Pin=BT2-2
+Added Pin To Net: NetName=NetBT2_1 Pin=BT3-1
+Added Pin To Net: NetName=NetBT3_1 Pin=BT3-2
+Added Pin To Net: NetName=NetBT3_1 Pin=BT3-2
+Added Pin To Net: NetName=NetBT3_1 Pin=BT3-2
+Added Pin To Net: NetName=NetBT3_1 Pin=BT4-1
+Added Pin To Net: NetName=NetBT4_1 Pin=BT4-2
+Added Pin To Net: NetName=NetBT4_1 Pin=BT4-2
+Added Pin To Net: NetName=NetBT4_1 Pin=BT4-2
+Added Pin To Net: NetName=NetBT4_1 Pin=BT5-1
+Added Pin To Net: NetName=NetBT5_1 Pin=BT5-2
+Added Pin To Net: NetName=NetBT5_1 Pin=BT5-2
+Added Pin To Net: NetName=NetBT5_1 Pin=BT5-2
+Added Pin To Net: NetName=NetBT5_1 Pin=BT6-1
+Added Pin To Net: NetName=NetBT6_1 Pin=BT6-2
+Added Pin To Net: NetName=NetBT6_1 Pin=BT6-2
+Added Pin To Net: NetName=NetBT6_1 Pin=BT6-2
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=NetBT6_1 Pin=P1-2
+Added Pin To Net: NetName=NetBT5_1 Pin=P1-3
+Added Pin To Net: NetName=NetBT4_1 Pin=P1-4
+Added Pin To Net: NetName=NetBT3_1 Pin=P1-5
+Added Pin To Net: NetName=NetBT2_1 Pin=P1-6
+Added Pin To Net: NetName=NetBT1_1 Pin=P1-7
+Added Pin To Net: NetName=VCC Pin=P1-8
+Change Net Name : Old Net Name=NetBT1_1 New Net Name=NetBT1_2
+Change Net Name : Old Net Name=NetBT2_1 New Net Name=NetBT2_2
+Change Net Name : Old Net Name=NetBT3_1 New Net Name=NetBT3_2
+Change Net Name : Old Net Name=NetBT4_1 New Net Name=NetBT4_2
+Change Net Name : Old Net Name=NetBT5_1 New Net Name=NetBT5_2
+Change Net Name : Old Net Name=NetBT6_1 New Net Name=NetBT6_2
+Added Member To Class: ClassName=BMS Member=Component P1 Header 8

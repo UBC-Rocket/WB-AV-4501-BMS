@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=VCC Pin=BT1-1
+Removed Pin From Net: NetName=NetBT1_2 Pin=BT1-2
+Removed Pin From Net: NetName=NetBT1_2 Pin=BT1-2
+Removed Pin From Net: NetName=NetBT1_2 Pin=BT1-2
+Removed Member From Class: ClassName=BMS Member=BT?
+Change Component Designator: OldDesignator=BT? NewDesignator=BT1
+Added Pin To Net: NetName=VCC Pin=BT1-1
+Added Pin To Net: NetName=NetBT1_2 Pin=BT1-2

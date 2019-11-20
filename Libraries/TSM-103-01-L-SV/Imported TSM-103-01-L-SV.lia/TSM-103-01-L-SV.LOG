@@ -1,0 +1,48 @@
+PCAD Importer Log
+Project : TSM-103-01-L-SV.LibPkg
+
+Section : C:\Users\Pablo Fernandez\Documents\UBC Rocket\WB\4501-WB_AV_BMS\Libraries\TSM-103-01-L-SV\TSM-103-01-L-SV.lia
+    Section : PCB Library - TSM-103-01-L-SV.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 143
+            Warning - 1 : Skipping Token isVisible On Line 144
+            Warning - 1 : Skipping Token isVisible On Line 310
+            Warning - 1 : Skipping Token isVisible On Line 311
+            Warning - 1 : Skipping Token isVisible On Line 312
+            Warning - 1 : Skipping Token isVisible On Line 313
+            Warning - 1 : Skipping Token isVisible On Line 314
+            Warning - 1 : Skipping Token isVisible On Line 315
+            Warning - 1 : Skipping Token isVisible On Line 316
+            Warning - 1 : Skipping Token isVisible On Line 484
+            Warning - 1 : Skipping Token isVisible On Line 485
+            Warning - 1 : Skipping Token isVisible On Line 486
+            Warning - 1 : Skipping Token isVisible On Line 487
+            Warning - 1 : Skipping Token isVisible On Line 488
+            Warning - 1 : Skipping Token isVisible On Line 489
+            Warning - 1 : Skipping Token isVisible On Line 490
+            Warning - 1 : Skipping Token TSM-103-01-L-SVA On Line 496
+            Warning - 1 : Skipping Token attachedSymbol On Line 555
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - TSM-103-01-L-SV.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 89
+            Warning - 1 : Skipping Token layerContents On Line 98
+            Warning - 1 : Skipping Token layerContents On Line 118
+            Warning - 1 : Skipping Token layerContents On Line 138
+            Warning - 1 : Skipping Token layerContents On Line 146
+            Warning - 1 : Skipping Token layerContents On Line 320
+            Warning - 1 : Skipping Token isVisible On Line 530
+            Warning - 1 : Skipping Token isVisible On Line 532
+        EndSection
+
+        Section : Generating SCH Library - TSM-103-01-L-SV.SchLib
+        EndSection
+    EndSection
+EndSection
