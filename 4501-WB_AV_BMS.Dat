@@ -1,0 +1,19 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~95|Field=Description~String~Description~95|Field=Designator~String~Designator~95|Field=Footprint~String~Footprint~185|Field=LibRef~String~LibRef~71|Field=PackageReference~String~PackageReference~77|Field=Quantity~Integer~Quantity~71|Field=SPN~String~SPN~71|Field=Value~String~Value~71|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~4501-WB_AV_BMS.PrjPCB|ReportField=ProjectFullPath~C:\Users\Pablo Fernandez\Documents\UBC Rocket\WB\4501-WB_AV_BMS\4501-WB_AV_BMS.PrjPCB|ReportField=Title~Bill of Materials For PCB Document [4501-WB_AV_BMS.PcbDoc]|ReportField=ReportTime~6:37:14 PM|ReportField=ReportDate~2019-11-23|ReportField=ReportDateTime~2019-11-23 6:37:14 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~104|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~82b1bc7bb8a97730a76b6693e1eeb485bc883767|ReportField=DataSourceFileName~4501-WB_AV_BMS.PcbDoc|ReportField=DataSourceFullPath~C:\Users\Pablo Fernandez\Documents\UBC Rocket\WB\4501-WB_AV_BMS\4501-WB_AV_BMS.PcbDoc|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|Battery|Multicell Battery|BT1, BT3, BT5, BT7|PCBComponent_1|Battery|BAT-2|4||
+2|Cap Semi|Capacitor (Semiconductor SIM Model)|C1, C2, C3, C4, C5, C6, C7, C14, C15|1608[0603]|Cap Semi|C1206|9|399-1092-1-ND|10nF
+3|Cap Semi|Capacitor (Semiconductor SIM Model)|C9, C10, C11, C12, C13|6-0805_N|Cap Semi|C1206|5|1276-1090-1-ND, 311-3498-1-ND|100nF, 1uF
+4|LED0|Typical INFRARED GaAs LED|D2, D3, D4, D5, D6, D7, D8, D9|J1-0603|LED0|LED-0|8|160-1435-1-ND, 160-1646-1-ND|
+5|Socket|Socket|J4, J5|PCBComponent_1|Socket||2||
+6|Header 13|Header, 13-Pin|P1|PCBComponent_1|Header 13||1||
+7|5747845-4|Header, 7-Pin, Dual row|P2|*5747845-4|Header 7X2A||1||
+8|Header 2|Header, 2-Pin|P3, P4|WM4900-ND|Header 2||2||
+9|Header 2|Header, 2-Pin|P5, P6, P7, P8, P9, P10, P11|PCBComponent_1|Header 2||7|36-5104-ND|
+10|MOSFET-P|P-Channel MOSFET|Q1, Q2, Q3, Q4, Q5, Q6, Q7|SOT95P245X110-3N|MOSFET-P|E3|7|BSS308PEH6327XTSA1CT-ND|
+11|DXT5551P5-13|NPN General Purpose Amplifier|Q9|DXT5551P5-13|2N3904|TO-92A|1|DXT5551P5-13CT-ND|
+12|Res3|Resistor|R1, R2, R4, R5, R7, R8, R10, R11, R13, R14, R16, R17, R19, R20, R23, R28, R29, R30, R31, R32, R33, R34, R35, R36, R37, R38, R39, R40, R41, R42, R43, R44, R45, R46, R48, R49, R50, R51|J1-0603|Res3|J1-0603|38|A129676CT-ND, A129543CT-ND, RMCF2010JT33R0CT-ND, A129724CT-ND, RNCP0603FTD1K00CT-ND, 311-2598-1-ND, [NoParam]|100, 3.3k, 475, 1M, 1k, 50, 10k
+13|Res3|Resistor|R3, R6, R9, R12, R15, R18, R21|12Z-2010|Res3|J1-0603|7|A130642CT-ND|33
+14|1%|Resistor|R22, R24, R25, R26, R27|J1-0603|Res3|J1-0603|5|A129676CT-ND|100
+15|SW-SPDT|SPDT Subminiature Toggle Switch, Right Angle Mounting, Vertical Actuation|S1, S2, S3, S4|*TSM-103-01-L-SV|SW-SPDT|TL36WW15050|4|S9337-ND, SAM8981-ND|
+16|SS312SAH4-R|Switch Slide ON None ON SPDT Side Slide 0.1A 28VAC 28VDC 0.4VA 10000Cycles Gull Wing SMD T/R|S5|*SW_SS312SAH4-R|SS312SAH4-R||1||
+17|LTC6812HLWE-1|No Description Available|U1|LQFP64_LWE_A - duplicate|LTC6812HLWE-1||1||Value
+18|HM2100NLT|Header, 5-Pin, Dual row|XFMR|HM2100NLT|Header 5X2A||1|1840-1032-1-ND|
