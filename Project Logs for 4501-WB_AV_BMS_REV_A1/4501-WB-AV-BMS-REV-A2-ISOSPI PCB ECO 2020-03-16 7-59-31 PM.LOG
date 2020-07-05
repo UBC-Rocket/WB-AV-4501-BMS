@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=P1-1
+Removed Pin From Net: NetName=GPIO1 Pin=P1-2
+Removed Pin From Net: NetName=GND Pin=P1-3
+Removed Pin From Net: NetName=GPIO2 Pin=P1-4
+Removed Pin From Net: NetName=GND Pin=P1-5
+Removed Pin From Net: NetName=GPIO3 Pin=P1-6
+Removed Pin From Net: NetName=GND Pin=P1-7
+Removed Pin From Net: NetName=GPIO4 Pin=P1-8
+Added Member To Class: ClassName=4501-WB-AV-BMS-REV-A2-ISOSPI Member=Component P? 3-338168-2

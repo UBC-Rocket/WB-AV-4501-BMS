@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=P2-1
+Removed Pin From Net: NetName=Cell1 Pin=P2-2
+Removed Pin From Net: NetName=Cell2 Pin=P2-3
+Removed Pin From Net: NetName=Cell3 Pin=P2-4
+Removed Pin From Net: NetName=Cell4 Pin=P2-5
+Removed Pin From Net: NetName=Cell5 Pin=P2-6
+Removed Pin From Net: NetName=Cell6 Pin=P2-7
+Removed Pin From Net: NetName=WDT Pin=P2-8
+Removed Member From Class: ClassName=4501-WB-AV-BMS-REV-A2-ISOSPI Member=P2
+Added Component: Designator=P?(CONN_3-338168-2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "3-338168-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPN"; Value = "A105035-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A105035-ND"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=4501-WB-AV-BMS-REV-A2-ISOSPI Member=Component P? 3-338168-2

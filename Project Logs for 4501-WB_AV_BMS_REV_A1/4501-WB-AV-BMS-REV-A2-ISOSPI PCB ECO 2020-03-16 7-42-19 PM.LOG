@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=C7 Pin=R26-2
+Removed Pin From Net: NetName=C3 Pin=R27-2
+Removed Pin From Net: NetName=C7 Pin=U1-16
+Removed Pin From Net: NetName=C7 Pin=U1-18
+Removed Pin From Net: NetName=C7 Pin=U1-20
+Removed Pin From Net: NetName=C3 Pin=U1-28
+Removed Pin From Net: NetName=C3 Pin=U1-30
+Added Pin To Net: NetName=NetR26_2 Pin=R26-2
+Added Pin To Net: NetName=NetR26_2 Pin=U1-16
+Added Pin To Net: NetName=NetR26_2 Pin=U1-18
+Added Pin To Net: NetName=NetR26_2 Pin=U1-20
+Added Net: Name=NetR26_2
+Added Pin To Net: NetName=NetR27_2 Pin=R27-2
+Added Pin To Net: NetName=NetR27_2 Pin=U1-28
+Added Pin To Net: NetName=NetR27_2 Pin=U1-30
+Added Net: Name=NetR27_2
+Added Member To Class: ClassName=4501-WB-AV-BMS-REV-A2-ISOSPI Member=Component P? 3-338168-2

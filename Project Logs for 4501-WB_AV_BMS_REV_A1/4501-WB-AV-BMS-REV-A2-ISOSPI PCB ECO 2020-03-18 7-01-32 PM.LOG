@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=P? Old Footprint=HDR1X8 New Footprint=DIP10
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=P? NewDesignator=P12
+Added Member To Class: ClassName=4501-WB-AV-BMS-REV-A2-ISOSPI Member=Component P2 Header 8

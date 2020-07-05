@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=WDT Pin=P?-8
+Added Pin To Net: NetName=VCC Pin=P?-8
+Added Pin To Net: NetName=WDT Pin=P?-9
