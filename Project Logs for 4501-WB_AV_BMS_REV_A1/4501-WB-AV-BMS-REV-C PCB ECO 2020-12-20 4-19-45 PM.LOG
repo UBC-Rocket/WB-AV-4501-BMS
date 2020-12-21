@@ -1,0 +1,18 @@
+Added Component: Designator=BT1(1043_KEY)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Battery; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "BAT-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=BT1-1
+Added Pin To Net: NetName=Cell6 Pin=BT1-2
+Added Member To Class: ClassName=4501-WB-AV-BMS-REV-C Member=Component BT1 Battery
+Added Member To Class: ClassName=Batteries Member=Component U? 1042P
+Added Member To Class: ClassName=Batteries Member=Component U? 1042P
+Added Member To Class: ClassName=Batteries Member=Component U? 1042P
+Added Member To Class: ClassName=Batteries Member=Component U? 1042P
+Added Member To Class: ClassName=Batteries Member=Component U? 1042P
+Added Member To Class: ClassName=Batteries Member=Component U? 1042P
+Added Room: Name=4501-WB-AV-BMS-REV-C
+Added Room: Name=Batteries
