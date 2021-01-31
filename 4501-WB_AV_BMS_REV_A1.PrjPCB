@@ -666,6 +666,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document38]
+DocumentPath=Libraries\1043\AltiumDesigner\2020-12-21_00-09-02\2020-12-21_00-09-02.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JGLWOEYT
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-A2-ISOSPI-RoundHoles.TXT
 DItemRevisionGUID=
@@ -1017,7 +1034,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=HP OfficeJet Pro 6970 [1D0AEF]
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
