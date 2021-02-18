@@ -683,6 +683,74 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JGLWOEYT
 
+[Document39]
+DocumentPath=CAMtastic9.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document40]
+DocumentPath=CAMtastic10.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document41]
+DocumentPath=CAMtastic11.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document42]
+DocumentPath=CAMtastic12.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-A2-ISOSPI-RoundHoles.TXT
 DItemRevisionGUID=
@@ -784,134 +852,274 @@ DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-A2-ISO
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS-REVA-BOM
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS-REVA-BOM.xls
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS-REVA-BOM.xlsx
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.G1
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS-RoundHoles.TXT
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.G2
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS-SlotHoles.TXT
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.DRR
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.EXTREP
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GBL
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GBO
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GBP
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GBS
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GKO
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GM1
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GM4
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GM5
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.GM6
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GM7
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.GM7
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GM13
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.GM8
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GM15
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GM16
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GPB
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GPT
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.GM20
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GTL
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.GM21
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GTO
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.GM23
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GTP
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.GM24
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GTS
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.LDP
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.REP
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.RUL
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.xlsx
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\Design Rule Check - 4501-WB-AV-BMS-REV-A2-ISOSPI.html
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=Project Outputs for 4501-WB_AV_BMS\Design Rule Check - 4501-WB_AV_BMS.html
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\Design Rule Check - 4501-WB_AV_BMS_REV_A1.html
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.REP
 DItemRevisionGUID=
 
 [GeneratedDocument58]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\4501-WB-AV-BMS-REV-C.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS-REVA-BOM
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS-REVA-BOM.xls
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS-REVA-BOM.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GM7
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.REP
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS\4501-WB_AV_BMS.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\Design Rule Check - 4501-WB-AV-BMS-REV-A2-ISOSPI.html
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\Design Rule Check - 4501-WB-AV-BMS-REV-C.html
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS\Design Rule Check - 4501-WB_AV_BMS.html
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\Design Rule Check - 4501-WB_AV_BMS_REV_A1.html
+DItemRevisionGUID=
+
+[GeneratedDocument93]
 DocumentPath=Project Outputs for 4501-WB_AV_BMS_REV_A1\Footprint Comparison - 4501-WB-AV-BMS-REV-A2-ISOSPI.html
 DItemRevisionGUID=
 
@@ -1034,7 +1242,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP OfficeJet Pro 6970 [1D0AEF]
+TargetPrinter=SEC30CDA7A04ED2
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1136,7 +1344,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=SEC30CDA7A04ED2
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -1211,7 +1419,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908292~1,16908293~1,16908295~1,16908301~1,16908303~1,16908304~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16777218~1,16777219~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908290~1,16908291~1,16908292~1,16908293~1,16908294~1,16908295~1,16908296~1,16908301~1,16908303~1,16908304~1,16908308~1,16908309~1,16908311~1,16908312~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs
@@ -1375,78 +1583,6 @@ OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
 PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType18=Text Print
-OutputName18=Text Print
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
-PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType19=Text Print
-OutputName19=Text Print
-OutputDocumentPath19=
-OutputVariantName19=
-OutputDefault19=0
-PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType20=Text Print
-OutputName20=Text Print
-OutputDocumentPath20=
-OutputVariantName20=
-OutputDefault20=0
-PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType21=Text Print
-OutputName21=Text Print
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
-PageOptions21=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType22=Text Print
-OutputName22=Text Print
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-PageOptions22=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType23=Text Print
-OutputName23=Text Print
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
-PageOptions23=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType24=Text Print
-OutputName24=Text Print
-OutputDocumentPath24=
-OutputVariantName24=
-OutputDefault24=0
-PageOptions24=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType25=Text Print
-OutputName25=Text Print
-OutputDocumentPath25=
-OutputVariantName25=
-OutputDefault25=0
-PageOptions25=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType26=Text Print
-OutputName26=Text Print
-OutputDocumentPath26=
-OutputVariantName26=
-OutputDefault26=0
-PageOptions26=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType27=Text Print
-OutputName27=Text Print
-OutputDocumentPath27=
-OutputVariantName27=
-OutputDefault27=0
-PageOptions27=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType28=Text Print
-OutputName28=Text Print
-OutputDocumentPath28=
-OutputVariantName28=
-OutputDefault28=0
-PageOptions28=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType29=Text Print
-OutputName29=Text Print
-OutputDocumentPath29=
-OutputVariantName29=
-OutputDefault29=0
-PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup8]
 Name=Validation Outputs
@@ -1878,6 +2014,7 @@ Type119=3
 MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
+Type123=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
